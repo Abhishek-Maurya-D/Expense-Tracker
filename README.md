@@ -12,7 +12,8 @@ A simple and responsive Expense Tracker web application built with HTML, CSS, an
 
 ## Demo
 
-![Expense Tracker Screenshot](screenshot.png)
+![Expense Tracker Screenshot](https://github.com/user-attachments/assets/af8f33a2-7feb-4a30-a68c-aace9af8bedf)
+
 
 ## Getting Started
 
