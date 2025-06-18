@@ -2,6 +2,10 @@
 
 A simple and responsive Expense Tracker web application built with HTML, CSS, and JavaScript. It allows users to add, delete, and view their expenses, with persistent storage using localStorage.
 
+## Deployment
+
+You can try the live app here: [Expense Tracker Live](https://abhishek-maurya-d.github.io/Expense-Tracker/)
+
 ## Features
 
 - Add new expenses with description and amount
